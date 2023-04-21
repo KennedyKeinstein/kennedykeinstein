@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h3 align="center">A passionate JAVASCRIPT developer from Madagascar</h3>
+<h3 align="center">A passionate JAVASCRIPT Developer from Madagascar</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KennedyKeinstein&show_icons=true&theme=radical)
 
